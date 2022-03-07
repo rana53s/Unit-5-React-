@@ -1,25 +1,9 @@
-.main_div {
+.App {
   text-align: center;
   width: 100%;
   color: green;
-  margin-text: centre;
 }
-.main_div h2 {
-  color: blue;
-}
-.btn_div button{
-  margin:10px;
-  padding:10px;
-  border-radius: 5px;
-  border: none;
-  color: white;
-  background: tomato;
-  font-weight: bold;
-  font-style: italic;
-}
-.main_div h1 span {
-  color: blue;
-}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
