@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "RANA SARKAR",
+      "age": "24",
+      "address": "Agartala, Tripura",
+      "salary": "82000",
+      "maritalstate": "on",
+      "id": 1
+    },
+    {
+      "name": "Gak lage",
+      "age": "21",
+      "address": "Agartala, Tripura",
+      "salary": "98000",
+      "id": 2
+    },
+    {
+      "name": "Cheeku",
+      "age": "22",
+      "address": "Melaghar",
+      "salary": "444440",
+      "maritalstate": "on",
+      "id": 3
+    },
+    {
+      "name": "rana.dev.97",
+      "age": "24",
+      "address": "Melaghar",
+      "salary": "98000",
+      "id": 4
+    }
+  ]
+}

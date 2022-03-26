@@ -1,0 +1,9 @@
+#table thead>tr>th  {
+    margin-left: 10px;
+}
+.tBody {
+    margin-left: 10%;
+}
+.table-data {
+    margin: auto;
+}
